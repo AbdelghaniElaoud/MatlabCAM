@@ -30,7 +30,5 @@ Please note that this application is provided as-is, and any usage or modificati
 
 Enjoy analyzing DXF files and extracting circle data with MATLAB AppDesigner!
 
-## Screenshots
-
-Add any relevant screenshots or images showcasing your application here.
+## Enjoy :)
 
